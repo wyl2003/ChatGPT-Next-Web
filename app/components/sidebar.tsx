@@ -158,8 +158,8 @@ export function SideBar(props: { className?: string }) {
           NextChat
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          仅以小资咖啡价，开启AI新境界。 <br>微信：my_wxid_is_wxid，体验GPT-4智能、 <br>AI画图与搜索等丰富插件。
-            <a href="gpt-pricing.wyls.top" target="_blank">查看定价</a>
+          仅以小资咖啡价，开启AI新境界。 <br>微信：my_wxid_is_wxid，体验GPT-4智 <br>能、AI画图与搜索等丰富插件。
+            <a href="https://gpt-pricing.wyls.top" target="_blank">查看定价</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
