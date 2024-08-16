@@ -226,7 +226,8 @@ export function SideBar(props: { className?: string }) {
     >
       <SideBarHeader
         title="NextChat"
-        subTitle="Build your own AI assistant."
+        subTitle="仅以瑞幸咖啡价，开启AI新境界。 <br />微信：ohmycn，体验GPT-4智 <br />能、AI画图与搜索等丰富插件。
+            <a href="http://gpt-pricing.wyls.top" >查看定价</a>"
         logo={<ChatGptIcon />}
       >
         <div className={styles["sidebar-header-bar"]}>
